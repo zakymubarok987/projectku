@@ -1,0 +1,10 @@
+mempelajari tentang HTML 
+mempelajari tentang c++ menggunakan (DEV C++)
+membuat desain menggunakan (corel draw)
+mempelajari sedikit tentang TKJ memasang Kabel LAN
+membuat web statis menggunakan notepad ++
+membuat program php menggunakan sublime text
+mempelajari xampp cara start (apache,MySql)
+mempelajari yang ada didalam PHPMYADMIN
+membuat tabel di dalam PHPMYADMIN
+mempelajari tentang DRUPAL,WORDPRESS.
