@@ -8,3 +8,4 @@ mempelajari xampp cara start (apache,MySql)
 mempelajari yang ada didalam PHPMYADMIN
 membuat tabel di dalam PHPMYADMIN
 mempelajari tentang DRUPAL,WORDPRESS.
+mempelajari git dan github
